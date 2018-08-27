@@ -23,6 +23,4 @@ $ git reset --hard HEAD^ 或者 --hard <版本号> 或者 --hard HEAD~ 1
 
 $ git reflog #用git reflog查看命令历史，以便确定要回到未来的哪个版本。
 
-test diff
-
-add1
+$ git diff HEAD -- Git命令.md #当前文件和版本库的区别
