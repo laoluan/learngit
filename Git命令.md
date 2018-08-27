@@ -16,3 +16,5 @@ $ git status
 $ git diff readme.txt #查看文件改动
 
 $ git log #查看历史
+
+$ git reset --hard HEAD^ 或者 HEAD~1
